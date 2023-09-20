@@ -1,2 +1,1 @@
-touch hello.txt
-mkdir 1
+read -p "da
