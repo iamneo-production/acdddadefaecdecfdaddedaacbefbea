@@ -1,2 +1,0 @@
-read n
-echo "$n"
